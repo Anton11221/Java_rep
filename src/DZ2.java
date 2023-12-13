@@ -4,7 +4,7 @@ public class DZ2 {
         double num1 = 123.12345;
 
         // Создание переменной целочисленного типа с наименьшим диапазоном чисел
-        byte num2 = 127;
+        byte num2 = -128;
 
         System.out.println("Значение num1: " + num1);
         System.out.println("Значение num2: " + num2);
