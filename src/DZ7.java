@@ -19,16 +19,16 @@ public class DZ7 {
         int x = 10;
         int y = 20;
         int z = 30;
-        boolean containsConstant = false;
+        boolean constant = false;
         for (int i = 0; i < size; i++) {
             if (array[i] == x || array[i] == y || array[i] == z) {
                 System.out.println("Массив содержит значение: " + array[i]);
-                containsConstant = true;
+                constant = true;
             }
         }
 
         // Вывод результата
-        if (containsConstant) {
+        if (constant) {
             System.out.println("Данное значение имеется в константах");
         } else
             System.out.println("Константы в массиве не найдены");
