@@ -26,6 +26,6 @@ public class DZ12 {
         // Заменить символы 'a' на 'o' и вывести подстроку "Jovo"
         String replacedStr = str.replace('a', 'o');
         String substring = replacedStr.substring(7, 11);
-        System.out.println("Подстрока \"Jovo\": " + substring);
+        System.out.println("Подстрока \"Java\" с заменой символов 'a' на 'o': " + substring);
     }
 }
