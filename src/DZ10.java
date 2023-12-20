@@ -1,11 +1,13 @@
 import java.util.Scanner;
 
-public class DZ10 {
+public class DZ10
+{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         // Ввод размерности матрицы
         System.out.print("Введите количество строк: ");
+
         int rows = scanner.nextInt();
         System.out.print("Введите количество столбцов: ");
         int columns = scanner.nextInt();

@@ -18,6 +18,7 @@ public class DZ14 {
         }
         System.out.println();
 
+
         // Вывод максимального и минимального элемента массива
         int max = arr[0];
         int min = arr[0];

@@ -1,5 +1,6 @@
 public class DZ3 {
-    public static void main(String[] args) {
+
+        public static void main(String[] args) {
         int[] num = {1, 2, 5, 4, 5};
 
         // Меняем местами первый и последний элемент
@@ -13,3 +14,4 @@ public class DZ3 {
         System.out.println("Сумма первого и среднего элемента: " + sum);
     }
 }
+

@@ -7,6 +7,7 @@ public class DZ8 {
         System.out.print("Введите число n: ");
         int n = scanner.nextInt();
 
+
         int sum = 0;
 
         // Суммирование всех нечетных чисел от 1 до n

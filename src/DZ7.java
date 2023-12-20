@@ -4,6 +4,7 @@ public class DZ7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+
         // Ввод размера массива
         System.out.print("Введите размер массива: ");
         int size = scanner.nextInt();

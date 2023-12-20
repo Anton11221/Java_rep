@@ -8,7 +8,8 @@ public class DZ4 {
         System.out.println("Введите три числа:");
         float x = scanner.nextFloat();
         float y = scanner.nextFloat();
-        float z = scanner.nextFloat();
+        float z = scanner.nextFloat()
+                ;
 
         // Вычисление среднего арифметического
         float sa = (x + y + z) / 3;

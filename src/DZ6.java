@@ -68,6 +68,7 @@ public class DZ6 {
     }
 
 
+
     //Конвертор расстояний
     public static void distanceConverter() {
         Scanner scanner = new Scanner(System.in);

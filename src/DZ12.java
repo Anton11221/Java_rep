@@ -1,4 +1,5 @@
-public class DZ12 {
+public class
+DZ12 {
     public static void main(String[] args) {
         String str = "I like Java!!!";
 

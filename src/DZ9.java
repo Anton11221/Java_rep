@@ -21,7 +21,8 @@ public class DZ9 {
             sum += array[i];
         }
         double average = sum / size;
-        System.out.println("Среднее арефметическое равно = " + average);
+        System.out.println("Среднее арефметическое равно = " +
+                average);
 
         // Умножение элементов массива на среднее арифметическое
         for (int i = 0; i < size; i++) {
